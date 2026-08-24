@@ -1,7 +1,7 @@
-/* question: what are the top-paying data analyst jobs?
--identify the top 10 most payed data analyst roles that are available REMOTELY
--focuses on job postings with specified salaries (remove null)
--why? hihglight the top-paying opportunities for data analyst
+/* Какой вопрос решается?: Самые высокоплачиваемые вакансии аналитика данных
+Шаги:
+-Найти топ-10 самых оплачиваемых вакансий аналитика данных, которые доступны для удаленной работы
+-Сфокусироваться на вакансиях с указанной заработной платой (удалить нулевые значения)
 */
 
 SELECT
