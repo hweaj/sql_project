@@ -1,7 +1,7 @@
-/* question: what skills are required for the top-paying data analyst jobs?
--use the top 10 highest-paying data analyst jobs from first query
--add the specific skills requiredfor these roles 
--why? it provides a detailed look bluh bluh bluh
+/* Вопрос: Какие навыки требуются для самых оплачиваемых вакансий аналитика данных?
+Шаги:
+-Взять 10 самых оплачиваемых вакансий из первого запроса
+-Добавить навыки которые требуются для них
 */
 WITH top_paying_jobs as (
     SELECT
