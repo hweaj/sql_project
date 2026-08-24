@@ -1,7 +1,8 @@
-/* question: what are the most in-demand skills for data analysts?
--join job postings to inner join table similar to query 2
--identify the top-5 in-demand skills for data analysts
--focus on job postings  
+/* Вопрос: Какие самые востребованные навыки для аналитика данных?
+Шаги:
+-Использовать inner join для вакансий и навыков
+-Выделить 5 самых востребованных навыков
+-Сгруппировать по навыкам и отсортировать по вакансии
 */
 
 SELECT 
