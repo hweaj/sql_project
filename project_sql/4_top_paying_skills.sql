@@ -1,5 +1,5 @@
-/* question: What are the top skills based on salary?
--look at the average salary associated with each skill for data analyst positions 
+/* Вопрос: Какие самые нужные навыки, основываясь на зарплате?
+-Проанализировать средню зарплату по каждому навыку
 -focuses on roles with specified salaries, regardless of location 
 -it shows how skills impact salary levels 
 */
