@@ -1,6 +1,7 @@
-/* question: what are the most optimal skills to learn?
--identify skills in high demand and associated with high average salary
--concentrates on remote positions with specified salaries 
+/* Вопрос: какие навыки оптимальнее всего осваивать для аналитика данных?
+Шаги:
+-Выделить самые востребованнеы навыки на основе средней зарплаты
+-Выделить удаленные вакансии с указанной зарплатой
 */
 
 WITH skills_demand as (
